@@ -6,7 +6,7 @@
 
 <p>🚀 Atualmente desenvolvendo projetos práticos como APIs em Spring Boot, Backends para sistemas e automações em Python.</p>
 
-<p>🚀 Assistente de Operações no Santander, trabalhando com manipulação de dados e sistemas internos.</p>
+<p>🚀 Assistente de Operações na Solution4fleet - Santander, trabalhando com manipulação de dados e sistemas internos.</p>
 
 <p>📚 Estudo diariamente para aprimorar minhas habilidades e construir portfólio sólido no GitHub.</p>
 
