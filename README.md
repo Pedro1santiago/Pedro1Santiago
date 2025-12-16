@@ -29,7 +29,13 @@
      &hide=issues,contribs,stars,prs
      &rank_icon=github
      &theme=radical"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro1santiago&layout=compact&theme=radical&hide=css,html,scss,ts,tsx,php,ruby,go,swift,csharp,cs,hack,sql,bash,powershell,dart,cmake,cpp,c,c%2B%2B,make,batchfile,objective-c&langs_count=5"/>
+
+  <img height="200"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro1santiago
+     &layout=compact
+     &theme=radical
+     &hide=typescript,css,html,scss,php,ruby,go,swift,csharp,cs,hack,sql,bash,powershell,dart,cmake,cpp,c,c%2B%2B,make,batchfile,objective-c
+     &langs_count=5"/>
 
 </div>
 
