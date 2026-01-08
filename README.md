@@ -48,7 +48,7 @@
     <img height="35" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://pedro1santiago.github.io/Portifolio/" target="_blank">
+  <a href="https://pedrosantiagodev.vercel.app/" target="_blank">
     <img height="35" src="https://img.shields.io/badge/Portfólio-6C63FF?style=for-the-badge&logoColor=white">
   </a>
 
