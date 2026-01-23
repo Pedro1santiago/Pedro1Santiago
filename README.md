@@ -1,10 +1,10 @@
 <h2>Olá, sou o Pedro Santiago — Desenvolvedor Backend</h2>
 
-<p>👨‍💻 Desenvolvedor Backend em formação, focado em Java e Python. Buscando minha primeira oportunidade na área de desenvolvimento.</p>
+<p>👨‍💻 Desenvolvedor Backend em formação, focado em Java. Buscando minha primeira oportunidade na área de desenvolvimento.</p>
 
-<p>🎓 Estudante de Ciência da Computação na Uninove — concluindo formações paralelas em Java, Python, AWS e backend moderno.</p>
+<p>🎓 Estudante de Ciência da Computação na Uninove — concluindo formações paralelas em Java, AWS e backend moderno.</p>
 
-<p>🚀 Atualmente desenvolvendo projetos práticos como APIs em Spring Boot, Backends para sistemas e automações em Python.</p>
+<p>🚀 Atualmente desenvolvendo projetos práticos como APIs em Spring Boot, Backends para sistemas</p>
 
 <p>🚀 Assistente de Operações na Solution4fleet - Santander, trabalhando com manipulação de dados e sistemas internos.</p>
 
