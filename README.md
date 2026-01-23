@@ -14,7 +14,7 @@
 
 <!-- SKILLS -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,kotlin,js,spring,mysql,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,spring,mysql,postgres,docker,git" />
 </a>
 
 <hr>
