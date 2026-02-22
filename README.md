@@ -6,7 +6,7 @@
 
 <p>🚀 Atualmente desenvolvendo projetos práticos como APIs em Spring Boot, Backends para sistemas</p>
 
-<p>🚀 Assistente de Operações na Solution4fleet - Santander, trabalhando com manipulação de dados e sistemas internos.</p>
+<p>💼 Atuei no time de backend como Assistente de TI, trabalhando no desenvolvimento e manutenção de APIs em Java para atender as demandas do time Backend.
 
 <p>📚 Estudo diariamente para aprimorar minhas habilidades e construir portfólio sólido no GitHub.</p>
 
