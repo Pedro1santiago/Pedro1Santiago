@@ -1,16 +1,26 @@
-<h2>Olá, sou o Pedro Santiago — Desenvolvedor Backend</h2>
+<h2>Olá, sou Pedro Santiago — Desenvolvedor Backend Java & Kotlin</h2>
 
-<p>👨‍💻 Desenvolvedor Backend em formação, focado em Java. Buscando minha primeira oportunidade na área de desenvolvimento.</p>
+<p>👨‍💻 Desenvolvedor Back-end Jr. atuando em uma fintech, desenvolvendo sistemas financeiros, APIs REST e integrações bancárias utilizando Java, Kotlin e Spring Boot.</p>
 
-<p>🎓 Estudante de Ciência da Computação na Uninove — concluindo formações paralelas em Java, AWS e backend moderno.</p>
+<p>🎓 Estudante de Ciência da Computação, com foco em Engenharia de Software, Arquitetura de Sistemas e desenvolvimento backend.</p>
 
-<p>🚀 Atualmente desenvolvendo projetos práticos como APIs em Spring Boot, Backends para sistemas</p>
+<p>🚀 Atuo no desenvolvimento de soluções para transferências bancárias, limite de crédito, gestão de convênios, autenticação, segurança e integrações com parceiros financeiros.</p>
 
-<p>💼 Atuei no time de backend como Assistente de TI, trabalhando no desenvolvimento e manutenção de APIs em Java para atender as demandas do time Backend.
+<p>🏗️ Experiência com Java, Kotlin, Spring Boot, Spring Security, PostgreSQL, Elasticsearch, Flyway, WebSockets, JUnit, Mockito, DDD, SOLID e Arquitetura Hexagonal.</p>
 
-<p>📚 Estudo diariamente para aprimorar minhas habilidades e construir portfólio sólido no GitHub.</p>
+<p>💼 Participei da arquitetura e desenvolvimento de sistemas internos e financeiros críticos, desde a modelagem da solução até a entrega em produção.</p>
+
+<p>🤝 Atualmente colaboro com outros desenvolvedores juniores e estagiários, apoiando discussões sobre arquitetura, boas práticas e desenvolvimento backend.</p>
+
+<p>📚 Estudando continuamente backend, cloud, arquitetura de software e sistemas distribuídos para construir soluções escaláveis e de alta qualidade.</p>
 
 <hr>
+
+<h3>🛠️ Tecnologias</h3>
+
+<p>
+Java • Kotlin • Spring Boot • Spring Security • PostgreSQL • Elasticsearch • Flyway • JUnit • Mockito • Docker • Git • REST APIs • OpenAPI/Swagger • DDD • SOLID • Arquitetura Hexagonal
+</p>
 
 <!-- SKILLS -->
 <a href="https://skillicons.dev">
